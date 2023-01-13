@@ -1,0 +1,316 @@
+{
+  "phase": [
+    [
+      [
+        "bids_folder/sub-36-fm2d_CH1_-0.5A/fmap/sub-36-fm2d_CH1_-0.5A_phase1.nii.gz",
+        "bids_folder/sub-36-fm2d_CH1_-0.5A/fmap/sub-36-fm2d_CH1_-0.5A_phase2.nii.gz",
+        "bids_folder/sub-36-fm2d_CH1_-0.5A/fmap/sub-36-fm2d_CH1_-0.5A_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase1.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase2.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-34-fm2d_CH1_+0.5A/fmap/sub-34-fm2d_CH1_+0.5A_phase1.nii.gz",
+        "bids_folder/sub-34-fm2d_CH1_+0.5A/fmap/sub-34-fm2d_CH1_+0.5A_phase2.nii.gz",
+        "bids_folder/sub-34-fm2d_CH1_+0.5A/fmap/sub-34-fm2d_CH1_+0.5A_phase3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-40-fm2d_CH2_-0.5A/fmap/sub-40-fm2d_CH2_-0.5A_phase1.nii.gz",
+        "bids_folder/sub-40-fm2d_CH2_-0.5A/fmap/sub-40-fm2d_CH2_-0.5A_phase2.nii.gz",
+        "bids_folder/sub-40-fm2d_CH2_-0.5A/fmap/sub-40-fm2d_CH2_-0.5A_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase1.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase2.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-38-fm2d_CH2_+0.5A/fmap/sub-38-fm2d_CH2_+0.5A_phase1.nii.gz",
+        "bids_folder/sub-38-fm2d_CH2_+0.5A/fmap/sub-38-fm2d_CH2_+0.5A_phase2.nii.gz",
+        "bids_folder/sub-38-fm2d_CH2_+0.5A/fmap/sub-38-fm2d_CH2_+0.5A_phase3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-44-fm2d_CH3_-0.5A/fmap/sub-44-fm2d_CH3_-0.5A_phase1.nii.gz",
+        "bids_folder/sub-44-fm2d_CH3_-0.5A/fmap/sub-44-fm2d_CH3_-0.5A_phase2.nii.gz",
+        "bids_folder/sub-44-fm2d_CH3_-0.5A/fmap/sub-44-fm2d_CH3_-0.5A_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase1.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase2.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-42-fm2d_CH3_+0.5A/fmap/sub-42-fm2d_CH3_+0.5A_phase1.nii.gz",
+        "bids_folder/sub-42-fm2d_CH3_+0.5A/fmap/sub-42-fm2d_CH3_+0.5A_phase2.nii.gz",
+        "bids_folder/sub-42-fm2d_CH3_+0.5A/fmap/sub-42-fm2d_CH3_+0.5A_phase3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-48-fm2d_CH4_-0.5A/fmap/sub-48-fm2d_CH4_-0.5A_phase1.nii.gz",
+        "bids_folder/sub-48-fm2d_CH4_-0.5A/fmap/sub-48-fm2d_CH4_-0.5A_phase2.nii.gz",
+        "bids_folder/sub-48-fm2d_CH4_-0.5A/fmap/sub-48-fm2d_CH4_-0.5A_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase1.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase2.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-46-fm2d_CH4_+0.5A/fmap/sub-46-fm2d_CH4_+0.5A_phase1.nii.gz",
+        "bids_folder/sub-46-fm2d_CH4_+0.5A/fmap/sub-46-fm2d_CH4_+0.5A_phase2.nii.gz",
+        "bids_folder/sub-46-fm2d_CH4_+0.5A/fmap/sub-46-fm2d_CH4_+0.5A_phase3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-52-fm2d_CH5_-0.5A/fmap/sub-52-fm2d_CH5_-0.5A_phase1.nii.gz",
+        "bids_folder/sub-52-fm2d_CH5_-0.5A/fmap/sub-52-fm2d_CH5_-0.5A_phase2.nii.gz",
+        "bids_folder/sub-52-fm2d_CH5_-0.5A/fmap/sub-52-fm2d_CH5_-0.5A_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase1.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase2.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-50-fm2d_CH5_+0.5A/fmap/sub-50-fm2d_CH5_+0.5A_phase1.nii.gz",
+        "bids_folder/sub-50-fm2d_CH5_+0.5A/fmap/sub-50-fm2d_CH5_+0.5A_phase2.nii.gz",
+        "bids_folder/sub-50-fm2d_CH5_+0.5A/fmap/sub-50-fm2d_CH5_+0.5A_phase3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-58-fm2d_CH6_-0.5A/fmap/sub-58-fm2d_CH6_-0.5A_phase1.nii.gz",
+        "bids_folder/sub-58-fm2d_CH6_-0.5A/fmap/sub-58-fm2d_CH6_-0.5A_phase2.nii.gz",
+        "bids_folder/sub-58-fm2d_CH6_-0.5A/fmap/sub-58-fm2d_CH6_-0.5A_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase1.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase2.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-54-fm2d_CH6_+0.5A/fmap/sub-54-fm2d_CH6_+0.5A_phase1.nii.gz",
+        "bids_folder/sub-54-fm2d_CH6_+0.5A/fmap/sub-54-fm2d_CH6_+0.5A_phase2.nii.gz",
+        "bids_folder/sub-54-fm2d_CH6_+0.5A/fmap/sub-54-fm2d_CH6_+0.5A_phase3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-62-fm2d_CH7_-0.5A/fmap/sub-62-fm2d_CH7_-0.5A_phase1.nii.gz",
+        "bids_folder/sub-62-fm2d_CH7_-0.5A/fmap/sub-62-fm2d_CH7_-0.5A_phase2.nii.gz",
+        "bids_folder/sub-62-fm2d_CH7_-0.5A/fmap/sub-62-fm2d_CH7_-0.5A_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase1.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase2.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-60-fm2d_CH7_+0.5A/fmap/sub-60-fm2d_CH7_+0.5A_phase1.nii.gz",
+        "bids_folder/sub-60-fm2d_CH7_+0.5A/fmap/sub-60-fm2d_CH7_+0.5A_phase2.nii.gz",
+        "bids_folder/sub-60-fm2d_CH7_+0.5A/fmap/sub-60-fm2d_CH7_+0.5A_phase3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-66-fm2d_CH8_-0.5A/fmap/sub-66-fm2d_CH8_-0.5A_phase1.nii.gz",
+        "bids_folder/sub-66-fm2d_CH8_-0.5A/fmap/sub-66-fm2d_CH8_-0.5A_phase2.nii.gz",
+        "bids_folder/sub-66-fm2d_CH8_-0.5A/fmap/sub-66-fm2d_CH8_-0.5A_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase1.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase2.nii.gz",
+        "bids_folder/sub-28-fm2d_CH0_baseline/fmap/sub-28-fm2d_CH0_baseline_phase3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-64-fm2d_CH8_+0.5A/fmap/sub-64-fm2d_CH8_+0.5A_phase1.nii.gz",
+        "bids_folder/sub-64-fm2d_CH8_+0.5A/fmap/sub-64-fm2d_CH8_+0.5A_phase2.nii.gz",
+        "bids_folder/sub-64-fm2d_CH8_+0.5A/fmap/sub-64-fm2d_CH8_+0.5A_phase3.nii.gz"
+      ]
+    ]
+  ],
+  "mag":[
+    [
+      [
+        "bids_folder/sub-35-fm2d_CH1_-0.5A/fmap/sub-35-fm2d_CH1_-0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-35-fm2d_CH1_-0.5A/fmap/sub-35-fm2d_CH1_-0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-35-fm2d_CH1_-0.5A/fmap/sub-35-fm2d_CH1_-0.5A_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude1.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude2.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-33-fm2d_CH1_+0.5A/fmap/sub-33-fm2d_CH1_+0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-33-fm2d_CH1_+0.5A/fmap/sub-33-fm2d_CH1_+0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-33-fm2d_CH1_+0.5A/fmap/sub-33-fm2d_CH1_+0.5A_magnitude3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-39-fm2d_CH2_-0.5A/fmap/sub-39-fm2d_CH2_-0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-39-fm2d_CH2_-0.5A/fmap/sub-39-fm2d_CH2_-0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-39-fm2d_CH2_-0.5A/fmap/sub-39-fm2d_CH2_-0.5A_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude1.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude2.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-37-fm2d_CH2_+0.5A/fmap/sub-37-fm2d_CH2_+0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-37-fm2d_CH2_+0.5A/fmap/sub-37-fm2d_CH2_+0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-37-fm2d_CH2_+0.5A/fmap/sub-37-fm2d_CH2_+0.5A_magnitude3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-43-fm2d_CH3_-0.5A/fmap/sub-43-fm2d_CH3_-0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-43-fm2d_CH3_-0.5A/fmap/sub-43-fm2d_CH3_-0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-43-fm2d_CH3_-0.5A/fmap/sub-43-fm2d_CH3_-0.5A_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude1.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude2.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-41-fm2d_CH3_+0.5A/fmap/sub-41-fm2d_CH3_+0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-41-fm2d_CH3_+0.5A/fmap/sub-41-fm2d_CH3_+0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-41-fm2d_CH3_+0.5A/fmap/sub-41-fm2d_CH3_+0.5A_magnitude3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-47-fm2d_CH4_-0.5A/fmap/sub-47-fm2d_CH4_-0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-47-fm2d_CH4_-0.5A/fmap/sub-47-fm2d_CH4_-0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-47-fm2d_CH4_-0.5A/fmap/sub-47-fm2d_CH4_-0.5A_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude1.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude2.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-45-fm2d_CH4_+0.5A/fmap/sub-45-fm2d_CH4_+0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-45-fm2d_CH4_+0.5A/fmap/sub-45-fm2d_CH4_+0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-45-fm2d_CH4_+0.5A/fmap/sub-45-fm2d_CH4_+0.5A_magnitude3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-51-fm2d_CH5_-0.5A/fmap/sub-51-fm2d_CH5_-0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-51-fm2d_CH5_-0.5A/fmap/sub-51-fm2d_CH5_-0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-51-fm2d_CH5_-0.5A/fmap/sub-51-fm2d_CH5_-0.5A_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude1.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude2.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-49-fm2d_CH5_+0.5A/fmap/sub-49-fm2d_CH5_+0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-49-fm2d_CH5_+0.5A/fmap/sub-49-fm2d_CH5_+0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-49-fm2d_CH5_+0.5A/fmap/sub-49-fm2d_CH5_+0.5A_magnitude3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-57-fm2d_CH6_-0.5A/fmap/sub-57-fm2d_CH6_-0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-57-fm2d_CH6_-0.5A/fmap/sub-57-fm2d_CH6_-0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-57-fm2d_CH6_-0.5A/fmap/sub-57-fm2d_CH6_-0.5A_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude1.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude2.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-53-fm2d_CH6_+0.5A/fmap/sub-53-fm2d_CH6_+0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-53-fm2d_CH6_+0.5A/fmap/sub-53-fm2d_CH6_+0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-53-fm2d_CH6_+0.5A/fmap/sub-53-fm2d_CH6_+0.5A_magnitude3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-61-fm2d_CH7_-0.5A/fmap/sub-61-fm2d_CH7_-0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-61-fm2d_CH7_-0.5A/fmap/sub-61-fm2d_CH7_-0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-61-fm2d_CH7_-0.5A/fmap/sub-61-fm2d_CH7_-0.5A_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude1.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude2.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-59-fm2d_CH7_+0.5A/fmap/sub-59-fm2d_CH7_+0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-59-fm2d_CH7_+0.5A/fmap/sub-59-fm2d_CH7_+0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-59-fm2d_CH7_+0.5A/fmap/sub-59-fm2d_CH7_+0.5A_magnitude3.nii.gz"
+      ]
+    ],
+
+    [
+      [
+        "bids_folder/sub-65-fm2d_CH8_-0.5A/fmap/sub-65-fm2d_CH8_-0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-65-fm2d_CH8_-0.5A/fmap/sub-65-fm2d_CH8_-0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-65-fm2d_CH8_-0.5A/fmap/sub-65-fm2d_CH8_-0.5A_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude1.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude2.nii.gz",
+        "bids_folder/sub-27-fm2d_CH0_baseline/fmap/sub-27-fm2d_CH0_baseline_magnitude3.nii.gz"
+      ],
+      [
+        "bids_folder/sub-63-fm2d_CH8_+0.5A/fmap/sub-63-fm2d_CH8_+0.5A_magnitude1.nii.gz",
+        "bids_folder/sub-63-fm2d_CH8_+0.5A/fmap/sub-63-fm2d_CH8_+0.5A_magnitude2.nii.gz",
+        "bids_folder/sub-63-fm2d_CH8_+0.5A/fmap/sub-63-fm2d_CH8_+0.5A_magnitude3.nii.gz"
+      ]
+    ]
+  ],
+  "setup_currents": [
+    [-0.5, 0, 0.5],
+    [-0.5, 0, 0.5],
+    [-0.5, 0, 0.5],
+    [-0.5, 0, 0.5],
+    [-0.5, 0, 0.5],
+    [-0.5, 0, 0.5],
+    [-0.5, 0, 0.5],
+    [-0.5, 0, 0.5]
+  ],
+  "name": "greg_coil",
+  "n_channels": 8,
+  "units": "A",
+  "coef_channel_minmax": [
+    [-2.5, 2.5],
+    [-2.5, 2.5],
+    [-2.5, 2.5],
+    [-2.5, 2.5],
+    [-2.5, 2.5],
+    [-2.5, 2.5],
+    [-2.5, 2.5],
+    [-2.5, 2.5]
+  ],
+  "coef_sum_max": null
+}
