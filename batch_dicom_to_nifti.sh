@@ -27,10 +27,10 @@
 # correctly parse your data. More information can be found here: https://unfmontreal.github.io/Dcm2Bids/docs/how-to/create-config-file/
 
 # Create the absolute path out of the input provided to the script
-INPUT_PATH="$(cd "$(dirname "${1}")" || exit; pwd)/$(basename "${1}")"
+INPUT_PATH="$(cd "$(dirname "$1")" && pwd)/$(basename "$1")"
 
 # Create the absolute path out of the input provided to the script
-OUTPUT_PATH="$(cd "$(dirname "${2}")" || exit; pwd)/$(basename "${2}")"
+OUTPUT_PATH="$(cd "$(dirname "$1")" && pwd)/$(basename "$1")"
 
 # Run st_dicom_to_nifti on each folder
 for FNAME in "${INPUT_PATH}/"*; do
