@@ -30,7 +30,7 @@
 INPUT_PATH="$(cd "$(dirname "$1")" && pwd)/$(basename "$1")"
 
 # Create the absolute path out of the input provided to the script
-OUTPUT_PATH="$(cd "$(dirname "$1")" && pwd)/$(basename "$1")"
+OUTPUT_PATH="$(cd "$(dirname "$2")" && pwd)/$(basename "$2")"
 
 # Run st_dicom_to_nifti on each folder
 for FNAME in "${INPUT_PATH}/"*; do
