@@ -305,7 +305,7 @@
   "name": "greg_coil",
   "n_channels": 8,
   "units": "A",
-  "coef_channel_minmax": [
+  "coef_channel_minmax": {"coil": [
     [-2.5, 2.5],
     [-2.5, 2.5],
     [-2.5, 2.5],
@@ -314,6 +314,6 @@
     [-2.5, 2.5],
     [-2.5, 2.5],
     [-2.5, 2.5]
-  ],
+  ]},
   "coef_sum_max": null
 }
